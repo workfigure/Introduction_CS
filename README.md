@@ -1,5 +1,5 @@
-# Introduction_CS
-Introduction to computer science for beginners
+
+# Introduction to computer science for beginners
 
 ## Table of Contents
 
