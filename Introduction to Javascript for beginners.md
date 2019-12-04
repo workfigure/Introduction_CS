@@ -1,5 +1,7 @@
 # Introduction to Javascript for beginners
 
+# skill needed
+https://www.cnbc.com/2019/11/24/top-20-tech-skills-of-2019-and-the-easiest-one-to-learn-in-2020.html
 
 ## Reference
 - https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf
